@@ -12,8 +12,8 @@ import pymysql
 
 zdbhost = 'x.x.x.x'
 zdbuser = 'xxxx'
-zdbpass = 'xxxxxx'
-zdbport = xxxx
+zdbpass = 'xxxx'
+zdbport = 'xxxx'
 zdbname = 'xxxx'
 
 d = datetime.datetime.now()
